@@ -1,0 +1,5 @@
+Gráficos 3D
+
+Estilo de los Gráficos Poligonales ya que el juego va a tener Gráficos Poligonales creo q es una posibilidad hacerlo en tercera persona, aunque también estoy abierto a vista cenital 
+
+Jugabilidad Pienso que cada personaje debería tener habilidades específicas que se mejoren con el paso del tiempo o en un edificio o coliseo creado para eso, como mismo pienso q si vamos a hacer varios personajes hacer algo como Wow con dos facciones, que los personajes estén divididos en dos grupos cada uno de los grupos construye sus edificios específicos

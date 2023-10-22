@@ -1,0 +1,50 @@
+-- Me gustaria que el juego fuera en 3D y por ahora con graficos poligonales y vista cenital
+
+-- Mi idea para el tipo de juego viene siendo un medio camino entre RPG y RTS, que luego
+	de investigar descubri que eso es mas o menos un MOBA
+
+-- Ambientacion: para no caer en faltas de concordancia internas de gran variedad de MOBAs
+	y juegos de accion con una miscelanea de personajes incoherentes en su ambientacion
+	y trasfondo, me gustaria una ambientacion en un futuro distopico, pero no postapocaliptico
+	donde lo que sucedio es que el ser humano se quedo sin gran abasto de recursos para
+	emprender el viaje a las estrellas y se sumio a la humanidad en una depresion por el
+	ya existente desgaste de recursos; paralelo a esto, tambien existe la magia, siendo
+	magia y tecnologia pilares en los poderes de la ambientacion, aun asi concibo una vision
+	futurista donde se han alcanzado logros como el uso extendido de la energia nuclear.
+	Me gustaria lograr la actualmente llamada fantasia hibrida. Me gustaria que estubiera
+	dirigido para mayores de 16 años.
+
+-- Jugabilidad y Objetivos: el objetivo seria destruir el corazon de la base enemiga, si existiera
+	una campaña entonces este objetivo puede variar por mision. Para la jugabilidad pienso que
+	se juegue principalmente con un Heroe, al estilo de los MOBA, PEROOO, tambien sera necesario
+	recolectar recursos varios (me gustaria que fueran 3, ejemplo: metal, cristales y fluido
+	Divino), se podran construir estructuras e igual se podran sacar unidades, pero con un
+	limite de suministros restringido por cada heroe, hasta 20, para provocar que cada unidad
+	sea escogida con cuidado, centrando la atencion en la estrategia a tomar y el poderio del
+	heroe, tambien dandole mas especializacion a las estructuras que se crean; a que me refiero
+	con esto, a que por ejemplo, la espawning pool de los zerg, segun la historia ahi se
+	acumulan huevos zerg, pero en el juego eso solo sirve para mejorar zerlings, me gustaria 
+	darle esa funcion especial, y asi con todas las estructuras que se nos ocurra hacer.
+	Para las mejoras de las unidades habia pensado que solo se consiguieran al completar
+	eventos que aparezcan en el mapa, para forzar a los jugadores a la accion y el que
+	gane se puede llevar un punto de mejora para incluirlo en su arbol de mejoras.
+	Con respecto a la jugabilidad del heroe me gustaria que no existiesen los niveles, sino
+	un aumento de poder con los mismos puntos de habilidad que se luchen, asi como dandote a
+	escoger, que deseas mejorar tu heroe o tu base. En cambio, las habilidades de los heroes
+	se puedan mejorar por entrenamiento, esto biene siendo que mientras mas veces efectivas
+	uses tus poderes, mas poderoso te vuelves con ese poder. No me gustaria tener un sistema
+	de objetos equipables a los personajes, pero si un sistema de habilidades que garanticen
+	un amplio espectro de posibilidades en el juego.
+
+-- Descripcion adicional: fantaseando aqui puede que en el juego existan 5 facciones importantes
+	una de manipuladores de la magia puros, otros que les guste la tecnologia, y asi, otros
+	mas, por...q...u...e, me gustaria hacerle un modo historia, para arrasar y con las ideas
+	que tengo el modo cooperativo sale facilito.
+	Para aumentar la tactica y estrategia me gustaria ponerle etiquetas tacticas a las
+	unidades, por ejemplo, como en starcraft 2 que exiten las unidades blindadas y hay enemigos
+	efectivos contra las unidades blindadas
+
+-- En que se diferenciaria de otros de su tipo: especial es que no hemos visto un moba con modo
+	historia (que yo sepa, sino saquenme de mi ignarancia), a parte de eso, un moba donde se
+	puede construir y producir unidades a razon de ganar en estrategia y estes unidades esten
+	bajo el control del personaje.

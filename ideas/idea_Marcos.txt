@@ -1,0 +1,6 @@
+﻿--Graficos del juego: el que quiera cada uno en su minijuego
+--Estilo de graficos: Lo mismo el que quiera cada uno en su minijuego
+--Tipo de juego: Sería un videojuego de minijuegos rápidos tipo Wario Ware y Rhythm Heaven en donde cada nivel consta de varios minijuegos muy bizarros en el que el jugador tiene un tiempo límite muy limitado para completarlo
+--Ambientacion: Depende, eso lo podemos hablar, aunque normalmente es una mezcla ya que los minijuegos no tienen nada que ver uno con otro
+--Rasgos principales en su jugabilidad y objetivos: lo que más caracteriza a este tipo de juegos es que primero juegas una versión larga de cada minijuego y al final una mezcla de todo lo que has jugado en un nivel final cada X minijuegos
+--Que lo haria diferente de otros juegos de su tipo y especial, en realidad no mucho ya que hay unos cuantos juegos del estilo 😂, pero me parece una buena idea ya que así cada cual se puede inventar su propio minijuego y así ir aprendiendo a hacer cosas sueltas que serán de mucha utilidad en un videojuego de mayor magnitud
